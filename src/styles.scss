@@ -1,0 +1,16 @@
+@use './reset.scss' as *;
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.hide{
+  display: block;
+}
+
+@media (max-width: 576px) {
+
+  .hide{
+    display: none;
+  }
+
+}
