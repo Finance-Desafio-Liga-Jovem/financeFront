@@ -12,12 +12,6 @@
 - **Bootstrap 5**
 - **SweetAlert2**
 
-### Back-end
-- **Spring Boot 3**
-- **Java 21**
-- **Spring Security**
-- **PostgreSQL**
-
 ---
 
 ## 🧩 Funcionalidades Principais
